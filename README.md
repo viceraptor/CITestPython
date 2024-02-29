@@ -34,4 +34,4 @@ to:
         detailed_summary: true
         include_passed: true
 
-A complete workflow is located here: [./python-ci-workflow.yml](./python-ci-workflow.yml)
+A complete workflow is located here: [./python-ci-workflow.yml](./python-ci-workflow.yml).
